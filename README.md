@@ -1,10 +1,8 @@
 # 在线考试系统
 
-# 项目演示
-
-
 # 介绍
 一款多角色在线考试系统，系统集成了用户管理、角色管理、部门管理、题库管理、试题管理、试题导入导出、考试管理、在线考试、错题训练等功能，考试流程完善。
+项目已共享至github 链接https://github.com/gaifan1/online-exam.git
 
 # 技术栈
 SpringBoot / Shiro / Vue / MySQL
