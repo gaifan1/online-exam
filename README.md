@@ -46,3 +46,9 @@ Mysql5.7+
 4、启动项目
 5、如果无意外，可通过：http://localhost:8101 访问到项目了  
 6、管理员账号密码：admin/admin 学员账号：person/person  老师账号：teacher/teacher
+
+# 页面展示
+![image](https://github.com/gaifan1/online-exam/blob/main/images/%E9%A6%96%E9%A1%B5.png)
+![image](https://github.com/gaifan1/online-exam/blob/main/images/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+![image](https://github.com/gaifan1/online-exam/blob/main/images/%E8%80%83%E8%AF%95%E7%95%8C%E9%9D%A2.png)
+![image](https://github.com/gaifan1/online-exam/blob/main/images/%E8%AF%95%E9%A2%98%E7%AE%A1%E7%90%86.png)
